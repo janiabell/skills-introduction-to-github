@@ -1,5 +1,8 @@
 <header>
 
+Creating first repository in Github
+Following Github Skills to nativage software
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
